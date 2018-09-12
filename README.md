@@ -5,7 +5,7 @@ news is that analytic functions have also been available to users of Spark-SQL f
 
 The general format of an analytic function is:-
 
-# analytic_function over(partition_by_clause  order_by_clause   windowing_clause)
+# analytic_function over(partition_by_clause  order_by_clause   windowing_clause) #
 
 Let’s look at each of these in turn.
 
